@@ -1,3 +1,4 @@
+src/api/api_key.txt
 node_modules/**/*
 .expo/*
 npm-debug.*
