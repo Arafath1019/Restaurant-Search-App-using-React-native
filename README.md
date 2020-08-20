@@ -1,4 +1,4 @@
 ## Restaurant Search Screen View
-![photo1](./assets/1.png = 250x250)
+<img src="./assets/1.png" alt="Restaurant Search screen view" width="300" height="400">)
 ## About a restaurant detail view
-![photo2](./assets/2.png = 250x250)
+<img src="./assets/2.png" alt="Restaurant Detail Screen View" width="300" height="400">)
